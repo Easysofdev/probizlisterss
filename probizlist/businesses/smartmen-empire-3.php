@@ -1,0 +1,1 @@
+<?php $id_biz = 3; $id_user = 3; require 'biz_data.php'; ?>
